@@ -1,0 +1,193 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EMS
+build_property.RootNamespace = EMS
+build_property.ProjectDir = E:\Advance Programming 4th Sem\EMS\EMS\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Advance Programming 4th Sem\EMS\EMS
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/designation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVzaWduYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/designation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVzaWduYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/designation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVzaWduYXRpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/designation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVzaWduYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/designation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVzaWduYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employeeDashboard/departmentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVEYXNoYm9hcmRcZGVwYXJ0bWVudERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employeeDashboard/designationDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVEYXNoYm9hcmRcZGVzaWduYXRpb25EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employeeDashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVEYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employeeDashboard/leaveDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVEYXNoYm9hcmRcbGVhdmVEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employeeDashboard/vacancyDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVEYXNoYm9hcmRcdmFjYW5jeURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/leave/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbGVhdmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/leave/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbGVhdmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/leave/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbGVhdmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/leave/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbGVhdmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/leave/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbGVhdmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/Shared/_employeeDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9lbXBsb3llZURhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/user/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/user/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/user/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/user/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/user/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/user/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/vacancy/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmFjYW5jeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/vacancy/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmFjYW5jeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/vacancy/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmFjYW5jeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/vacancy/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmFjYW5jeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/vacancy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmFjYW5jeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance Programming 4th Sem/EMS/EMS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2ygzio75rl

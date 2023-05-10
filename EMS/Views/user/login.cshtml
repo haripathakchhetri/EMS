@@ -1,0 +1,36 @@
+﻿@{
+    Layout = "";
+}
+<style>
+    .center{
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+    }
+    .input{font-size:30px;
+        border:none;
+        border-bottom:2px solid green;
+        width: 500px;
+        text-align:center;
+        font-family:Verdana;
+    }
+
+    .btn{
+        font-size:30px;
+        width:500px;
+        text-align:center;
+        background:green;
+        color:white;
+    }
+</style>
+<div class="center">
+    @using (Html.BeginForm("login","user",FormMethod.Post))
+    {
+        <table>
+            <tr><td><input type="text" name="userName" placeholder="User Name" class="input"/></td></tr>
+            <tr><td><input type="password" name="password" placeholder="Password" class="input"/></td></tr>
+            <tr><td><input type="submit" value="Login" class="btn"/></td></tr>
+        </table>
+    }
+</div>
